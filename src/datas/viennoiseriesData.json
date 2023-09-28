@@ -1,0 +1,59 @@
+{
+    "viennoiseries": [
+        {
+            "name": "Croissant",
+            "price": 1.35,
+            "image": {
+                "source": "./assets/images/viennoiseries/croissants.jpg",
+                "alt": "Un croissant"
+            },
+            "inStock": true,
+            "quantity": 1,
+            "category": "Viennoiseries"
+        },
+        {
+            "name": "Pain au chocolat",
+            "price": 1.45 ,
+            "image": {
+                "source": "./assets/images/viennoiseries/pain-au-chocolat.jpg",
+                "alt": "Un pain au chocolat"
+            },
+            "inStock": true,
+            "quantity": 1,
+            "category": "Viennoiseries"
+        },
+        {
+            "name": "Chausson aux pommes",
+            "price": 2 ,
+            "image": {
+                "source": "./assets/images/viennoiseries/chaussons.png",
+                "alt": "Chausson aux pommes"
+            },
+            "inStock": true,
+            "quantity": 1,
+            "category": "Viennoiseries"
+        },
+        {
+            "name": "Pains aux raisins",
+            "price": 1.75,
+            "image": {
+                "source": "./assets/images/viennoiseries/pains-aux-raisins.jpg",
+                "alt": "Pains aux raisins"
+            },
+            "inStock": true,
+            "quantity": 1,
+            "category": "Viennoiseries"
+        },
+        {
+            "name": "Chouquettes x10",
+            "price": 3,
+            "image": {
+                "source": "./assets/images/viennoiseries/chouquettes.jpg",
+                "alt": "Chouquettes"
+            },
+            "inStock": false,
+            "quantity": 1,
+            "category": "Viennoiseries"
+        }
+    ]
+}

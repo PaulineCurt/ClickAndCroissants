@@ -1,0 +1,48 @@
+{
+    "patisseries": [
+        {
+            "name": "Éclair au chocolat",
+            "price": 2.90,
+            "image": {
+                "source": "./images/patisserie/eclair.jpg",
+                "alt": "Éclair au chocolat"
+            },
+            "inStock": true,
+            "quantity": 1,
+            "category": "Patisseries"
+        },
+        {
+            "name": "Tarte aux citrons",
+            "price": 2.90,
+            "image": {
+                "source": "./images/patisserie/tarte-citron.jpg",
+                "alt": "Tarte aux noisettes"
+            },
+            "inStock": false,
+            "quantity": 1,
+            "category": "Patisseries"
+        },
+        {
+            "name": "Tarte à la pistache",
+            "price": 2.90,
+            "image": {
+                "source": "./images/patisserie/tarte-pistache.jpg",
+                "alt": "Tarte à la pistache"
+            },
+            "inStock": false,
+            "quantity": 1,
+            "category": "Patisseries"
+        },
+        {
+            "name": "Tarte aux fruits",
+            "price": 2.90,
+            "image": {
+                "source": "./images/patisserie/tarte-fruits.jpg",
+                "alt": "Tarte aux fruits"
+            },
+            "inStock": true,
+            "quantity": 1,
+            "category": "Patisseries"
+        }
+    ]
+}
