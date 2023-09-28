@@ -1,4 +1,5 @@
 # Click & Croissants
+<img src="src/assets/logo.png" align="center">
 
 Bienvenue sur Click and Croissants, votre boulangerie fictive en ligne, où vous pouvez explorer et commander une délicieuse sélection de produits de boulangerie, de pâtisseries, de viennoiseries et de snacks. <br> Le site Web vous offre une expérience conviviale pour parcourir les catégories de produits, ajouter des articles à votre panier, passer une commande fictive et nous contacter.
 
