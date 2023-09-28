@@ -1,4 +1,4 @@
-# click-and-croissants
+# Click & Croissants
 
 ## Project setup
 ```
